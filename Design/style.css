@@ -1,0 +1,13 @@
+/* universal selector */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    font-size: 15px;
+}
+/* card1 */
+.card-1{
+    background-color: hsl(31, 77%, 52%);
+}
